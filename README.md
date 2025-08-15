@@ -1,4 +1,4 @@
-# Project3-CS325: My News Downloader with Summary Feature
+My News Downloader with Summary Feature
 
 ## Project Overview
 
